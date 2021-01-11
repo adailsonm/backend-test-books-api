@@ -18,7 +18,7 @@ Seu objetivo é construir uma API restful onde é possível cadastrar, consultar
 - Código da API
 - Script para criação do banco de dados
 - running.txt ( arquivo texto explicando como fazer para levantar sua API )
-- development.txt ( arquivo texto explicando os desafios encontrados, soluções apresentadas e molhorias que teria feito caso tivesse mais tempo )
+- development.txt ( arquivo texto explicando os desafios encontrados, soluções apresentadas e melhorias que teria feito caso tivesse mais tempo )
 
 ##### Modelo de dados
 
