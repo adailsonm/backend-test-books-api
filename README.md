@@ -3,13 +3,13 @@
 
 ### Objetivo
 
-Seu objetivo é construir uma API restful onde é possível cadastrar, consultar e remover um simples sistema de registro de livros.
+Seu objetivo é construir uma API restful onde é possível cadastrar, consultar e remover registros num simples sistema de registro de livros.
 
 ##### Escopo
 - A API deverá permitir acesso a 2 tipos de usuários: Autores e Gerentes
 - Autores somente terão acesso aos seus livros
 - Gerentes terão acesso a todo o cadastro de livros
-- A API deverá conter os endpoints necessários apenas para consulta, inclusão e remoção dos livros
+- A API deverá conter os endpoints necessários apenas para consulta, inclusão e remoção dos livros. Além é claro de login e logout.
 - O cadastro dos usuário não faz parte desse escopo, os usuários podem ser inseridos diretamente no banco de dados
  
 ##### Entrega
