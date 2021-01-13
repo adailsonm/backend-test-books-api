@@ -35,5 +35,5 @@ Sua base de dados precisa ter no mínimo 3 tabelas:
 
 ##### Processo
 
-- Você deverá clonar esse repositório, criar uma branch ***dev-test-<seunome>*** e realizar todo o desenvolvimento nela
+- Você deverá "forkar" esse repositório ou criar uma branch ***dev-test-<seunome>*** e realizar todo o desenvolvimento nela
 - O tempo para o desenvolvimento do projeto será acordado durante a primeira entrevista, mas será em torno de 1 semana.
