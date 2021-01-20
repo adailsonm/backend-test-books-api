@@ -3,8 +3,7 @@ CREATE DATABASE library
     OWNER = postgres
     ENCODING = 'UTF8'
     CONNECTION LIMIT = -1;
-CREATE SCHEMA library
-    AUTHORIZATION postgres;
+
 
 CREATE TABLE library.users
 (
