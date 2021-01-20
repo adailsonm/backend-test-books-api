@@ -1,0 +1,21 @@
+Vá até o seu terminal na raiz do projeto e digite 
+
+cp .env.example .env
+
+posterior a isso faça o docker-compose up e toda a aplicação já estará no ar
+
+Os dados para acesso pgAdmin para rodar o arquivo database.sql é:
+
+http://localhost:16543/browser/ você será direcionado ao login 
+
+e-mail:admin@teste.com.br 
+senha: testeadailson
+
+Depois terá que se conectar ao postgres
+
+host: db 
+port: 5432
+username: postgres
+password: postgres
+
+posteriormente é só pegar o script e rodar na maquina.

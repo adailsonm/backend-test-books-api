@@ -1,0 +1,7 @@
+Escolhi o NodeJS mais por familiariadade infelizmente a falta de tempo me fez não concluir o teste... 
+Escolhi o Express para seguir a execução com o node por ser algo simples de configurar e iniciar o desenvolvimento
+
+- Os desafios encontrados foi a falta de tempo para escrita da API
+- Tentei trazer uma especie de modelo MVC (Só que na camada de Models não estou manipulando o objeto que reflete a tabela estou trabalhar com queries)
+- Algumas das melhorias que teria adotado a primeira é finalizar a aplicação...
+- Depois fazer algumas adptações em tabela iniciar uma especie de DDD para restringuir as camadas incluir alguns design partners como Facade, Strategy (Para Perfis)
